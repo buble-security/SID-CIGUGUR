@@ -23,7 +23,7 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="#">Beranda</a>
+            <a class="nav-link active" aria-current="page" href="home.php">Beranda</a>
           </li>
 
           <!-- Profil Desa -->
@@ -34,11 +34,11 @@
             <ul class="dropdown-menu">
               <li><a class="dropdown-item" href="sejarah_desa.php">Sejarah Desa</a></li>
               <li><a class="dropdown-item" href="visi_misi.php">Visi & Misi</a></li>
-              <li><a class="dropdown-item" href="#">Letak Geografis</a></li>
+              <li><a class="dropdown-item" href="letak_geografis.php">Letak Geografis</a></li>
               <li>
                 <hr class="dropdown-divider">
               </li>
-              <li><a class="dropdown-item" href="#">Struktur Pemerintahan</a></li>
+              <li><a class="dropdown-item" href="struktur_pemerintahan.php">Struktur Pemerintahan</a></li>
               <li><a class="dropdown-item" href="#">Perangkat Desa</a></li>
               <li><a class="dropdown-item" href="#">Lembaga Desa</a></li>
             </ul>
